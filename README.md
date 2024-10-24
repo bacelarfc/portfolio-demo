@@ -11,9 +11,9 @@ Before running the application, make sure you have the following installed:
 ## Running the Application
 
 1. Clone the repository
-
+```
 git clone https://github.com/bacelarfc/portfolio-demo
-
+```
 2. Build and run the application
 
 Run the following command to build and start the application using Docker Compose:
