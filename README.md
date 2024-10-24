@@ -28,7 +28,7 @@ Once the application is up and running, you can access it in your browser at: ht
 
 Essentially, this will build the application and start it in a Docker container. 
 
-# Stop the Application
+## Stop the Application
 
 To stop the application and remove the running containers:
 
